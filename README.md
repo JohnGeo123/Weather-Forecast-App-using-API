@@ -1,7 +1,3 @@
-Certainly! Here's a description of the project that you can use on GitHub:
-
----
-
 ## Weather Forecast Web Application
 
 This is a simple web application that provides weather forecast information for cities around the world. It utilizes the OpenWeatherMap API to fetch current weather data such as temperature, humidity, and wind speed.
